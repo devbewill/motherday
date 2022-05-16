@@ -60,8 +60,8 @@ export default function Home() {
           rimaneva sempre il miglior corpo che io abbia mai desiderato guardare,
           lo amavo come ho sempre fatto, desideravo sentirlo vicino al mio in
           ogni momento della giornata, desideravo sentire te vicina, in
-          silenzio, per godermi quello spettacolo che stava messo in atto.{" "}
-          <br></br>
+          silenzio, per godermi quello spettacolo che eravamo riusciti a mettere
+          in atto. <br></br>
           Un giorno poi, all&apos;improvviso, BOOM! fanno capolino loro 😱
           <div className="image-wrapper">
             <Image
@@ -71,7 +71,7 @@ export default function Home() {
               height={1000}
             />
           </div>
-          Le tue tette perfette ora erano diventate delle tette perfette X 5.
+          Le tue tette perfette ora erano diventate delle tette perfette XL.
           <br></br>
           La pancia piano piano cresceva, ad agosto abbiamo avuto un assaggio di
           quella che sarebbe stata la nostra piccolina:
@@ -83,7 +83,7 @@ export default function Home() {
               height={1000}
             />
           </div>
-          quanta emozione, ancora più impazienza e più voglia di conoscerla ci
+          quanta emozione.. ancora più impazienza e più voglia di conoscerla ci
           avrebbe accompagnato per i mesi a venire.<br></br>
           Il sole, il mare, le quintalate di protezione solare e la nostra
           estate senza poter bere alcol, mangiare pesce, carne o prosciutto
@@ -105,8 +105,8 @@ export default function Home() {
               height={700}
             />
           </div>
-          oramai era diventato impossible anche trovare posti furbi per giocare
-          a nascondino 🤣
+          oramai era diventato impossible anche trovare posti dove nascondersi
+          🤣
           <div className="image-wrapper">
             <Image
               src="/nascondino.jpg"
@@ -115,8 +115,8 @@ export default function Home() {
               height={1000}
             />
           </div>
-          Insieme alla pancia aumentava la fame e la golosità, quella bimba
-          rubava un sacco di energie e tu avevi sempre più bisogno di pappa
+          Insieme alla pancia aumentava la fame e la gola, quella bimba rubava
+          un sacco di energie e tu avevi sempre più bisogno di pappa
           <div className="image-splitted">
             <div className="image-container">
               <Image src="/fame2.jpg" layout="fill" objectFit="contain" />
@@ -134,7 +134,7 @@ export default function Home() {
               height={1000}
             />
           </div>
-          Arriva poi il periodo del tanto atteso Natale, l’ultimo mese di
+          Arrivò poi il periodo del tanto atteso Natale, l’ultimo mese di
           attese, sapevamo che quel mese sarebbe arrivata Cecilia, la nostra
           Cecilia, il più bel regalo che la vita ci potesse fare.<br></br>
         </div>
@@ -160,13 +160,13 @@ export default function Home() {
           nell’attesa abbiamo fantasticato su come sarebbe stato avere un +1
           dentro casa.. <br></br>
           Poi una notte, il 12 dicembre, mi svegli dicendomi che forse ti si
-          erano rotte le acque, io tocco il letto, non sento bagnato e ti dico
-          “no tranqui” e mi rimetto a dormire, dopo qualche ora mi risvegli e mi
-          dici che hai le contrazioni, allora io mi alzo e da bravo scolaretto
+          erano rotte le acque, io tocco il materasso, non sento bagnato e ti
+          dico “no tranqui” e mi rimetto a dormire, dopo qualche ora mi risvegli
+          e mi dici che hai le contrazioni, allora mi alzo e da bravo scolaretto
           che ha studiato 🤓 provo a fare come avevo letto di fare, segno la
           durata e l’intervallo delle contrazioni per vedere se sono regolari e
-          nel caso, via di corsa all’ospedale. Niente nessuna regolarità né in
-          tempistica né in intervallo
+          nel caso, via di corsa all’ospedale. <br></br>Niente, nessuna
+          regolarità né in tempistica né in intervallo
           <div className="image-wrapper">
             <Image
               src="/contrazioni.jpg"
@@ -177,20 +177,21 @@ export default function Home() {
           </div>
           Nel dubbio però forse una capatina all’ospedale era meglio farla anche
           se in realtà mancava ancora una settimana al termine..<br></br>
-          Chiamo il Taxi mi carico valige, trolley e zainetti con i viveri che
+          Chiamo il Taxi carico valige, trolley e zainetti con i viveri che
           neanche dovessimo fare il cammino di Santiago e via verso l’ospedale
           con la convinzione che nel giro di qualche ora saremmo tornati a casa
-          e invece…
+          delusi e invece…
           <br></br>5cm di dilatazione, via in sala parto, tu con una
-          tranquillità anomala, io con un’agitazione terribile arriviamo li in
+          tranquillità anormale, io con un’agitazione terribile arriviamo li in
           quella stanza dove ci vengono fatte tutte le domande di rito.{" "}
           <br></br>
           Ci siamo, é ora delle spinte, tu bravissima, spinte perfette, niente
-          urla, nessun timore, nel giro di 10 spinte scarse fa capolino il
-          testino di Ceci che ancora prima di essere completamente fuori, ci
-          comunica con un piantino che è li, che sta uscendo, che è pronta ad
-          abbracciarci.<br></br> La spinta dopo finalmente esce ciò che sarebbe
-          stato la cosa più bella fatta nelle nostre vite, sono le 12:28 e ora
+          urla, nessun timore, tieni la mia mano ma con dolcezza, e nel giro di
+          dieci spinte scarse fa capolino il testino di Ceci che ancora prima di
+          essere completamente fuori, ci comunica con un piantino che è li, che
+          sta uscendo, che è pronta ad abbracciarci.<br></br> La spinta dopo
+          finalmente esce ciò che sarebbe stato la cosa più bella fatta nelle
+          nostre vite, sono le 12:28 e ora
           <strong> siamo in tre</strong>.<br></br>
           Taglio il cordone e prendo il telefono per immortalare la magia della
           vita, la mamma e la sua bimba che si guardano per la prima volta 😍.
@@ -206,7 +207,7 @@ export default function Home() {
         </video>
         <div>
           Avevo gli occhi pieni di lacrime dall’emozione, é stata una cosa
-          indescrivibile.. Eri mamma, lo eri diventata veramente..
+          indescrivibile.. Eri mamma, lo eri diventata finalmente..
           <div className="image-splitted">
             <div className="image-container">
               <Image
@@ -260,8 +261,8 @@ export default function Home() {
               height={800}
             />
           </div>
-          Poi il 19, dopo solo una settimana, da banalissimi genitori ansiosi
-          via in pronto soccorso 🏥 perché la bimba non smette di piangere.
+          Poi il 19, dopo solo una settimana, da banalissimi genitori fifoni via
+          in pronto soccorso 🏥 perché la bimba non smette di piangere.
           <br></br>
           <div className="image-wrapper">
             <Image
@@ -272,9 +273,9 @@ export default function Home() {
             />
           </div>
           Niente, doveva solo fare la 💩 tutto qua, però dai da quel momento
-          abbiamo imparato a non preoccuparci al primo strillo che non placa,
-          anche perché da lì a poco fare la cacca non sarebbe stato più un
-          problema per lei anzi…
+          abbiamo imparato a non preoccuparci al primo pianto che non si placa,
+          e comunque da lì a poco fare la cacca per lei non sarebbe stato più un
+          problema, anzi…
           <br></br> Il 23 primo bagnetto!!
           <div className="image-wrapper">
             <Image
@@ -296,7 +297,7 @@ export default function Home() {
             />
           </div>
           Il 6 Gennaio, la befana, approfittando di uno dei primi spiragli di
-          sole 😎 , nonostante il freddo milanese abbiamo fatto il primo giretto
+          sole 😎, nonostante il freddo milanese abbiamo fatto il primo giretto
           al parco sotto casa
           <div className="image-wrapper">
             <Image
@@ -307,7 +308,7 @@ export default function Home() {
             />
           </div>
           la piccola ha dormito tutto il tempo e noi abbiamo capito che lei
-          fuori si rilassava e soprattutto D-O-R-M-I-V-A, grande cosa!
+          fuori D-O-R-M-I-V-A, grande cosa!
           <br></br>Da lì, il freddo inverno milanese é passato, tra una dormita
           e l’altra
           <div className="image-wrapper">
@@ -336,7 +337,7 @@ export default function Home() {
           >
             <source src={"/ballo.mp4"} type="video/mp4"></source>
           </video>
-          e in attesa del caldo estivo, del mare e delle vacanze.. Come tutti
+          e in attesa del caldo estivo, del mare e delle vacanze. Come tutti
           (tranne mamma) d’inverno si ingrassa 🐷 e ciciulena non ha fatto
           eccezione..
           <div className="image-wrapper">
