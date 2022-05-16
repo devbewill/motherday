@@ -27,12 +27,12 @@ export default function Home() {
               height={1000}
             />
           </div>
-          Quando l'ho visto sono rimasto senza parole, ho avuto paura e allo
-          stesso tempo ho provato una fortissima emozione, mi sono balenate per
-          la testa mille domande, mille insicurezze, dubbi e timori ma a tutto
-          questo ho reagito con un pensiero, il pensiero che se anche in qualche
-          momento non fossi stato all’altezza della situazione sicuramente lo
-          saresti stata tu a provvedere.<br></br>
+          Quando l&apos;ho visto sono rimasto senza parole, ho avuto paura e
+          allo stesso tempo ho provato una fortissima emozione, mi sono balenate
+          per la testa mille domande, mille insicurezze, dubbi e timori ma a
+          tutto questo ho reagito con un pensiero, il pensiero che se anche in
+          qualche momento non fossi stato all’altezza della situazione
+          sicuramente lo saresti stata tu a provvedere.<br></br>
           Non ho dubitato neanche per un istante delle tua capacità di essere
           madre, non ho mai dubitato della forza che saresti riuscita a trovare
           se la vita ti avesse richiesto di farlo, questo pensiero mi ha in
@@ -62,7 +62,7 @@ export default function Home() {
           lo amavo come ho sempre fatto, desideravo sentirlo vicino al mio in
           ogni momento della giornata, desideravo sentire te vicina, in
           silenzio, per godermi quella meraviglia che stava accadendo. <br></br>
-          Un giorno poi, all'improvviso, BOOM! fanno capolino loro 😱
+          Un giorno poi, all&apos;improvviso, BOOM! fanno capolino loro 😱
           <div className="image-wrapper">
             <Image
               src="/tette.jpg"
@@ -267,9 +267,9 @@ export default function Home() {
             />
           </div>
           Niente, doveva solo fare la 💩 , tutto qua, però da quel momento
-          abbiamo imparato a non preoccuparci all`&apos;`istante, anche perché
-          da lì a poco, fare la cacca, non sarebbe stato più un problema per
-          lei, anzi…
+          abbiamo imparato a non preoccuparci all&apos;istante, anche perché da
+          lì a poco, fare la cacca, non sarebbe stato più un problema per lei,
+          anzi…
           <br></br> Il 23 primo bagnetto!!
           <div className="image-wrapper">
             <Image
@@ -338,7 +338,7 @@ export default function Home() {
               height={800}
             />
           </div>
-          I primi mesi sono passati e tra un selfie l`&apos;`altro
+          I primi mesi sono passati e tra un selfie l&apos;altro
           <div className="image-wrapper">
             <Image
               src="/selfie.jpg"
