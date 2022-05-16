@@ -402,6 +402,7 @@ export default function Home() {
           gioia e la soddisfazione della perfetta meraviglia che io e te insieme
           siamo riusciti a mettere al mondo. <br></br>Grazie per essere la
           migliore madre che mia figlia potesse avere.<br></br>
+          Buona festa della mamma.
           <div style={{ textAlign: "right" }}>Ste</div>
         </div>
       </main>
