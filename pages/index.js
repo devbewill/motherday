@@ -32,12 +32,11 @@ export default function Home() {
           per la testa mille domande, mille insicurezze, dubbi e timori ma a
           tutto questo ho reagito con un pensiero, il pensiero che se anche in
           qualche momento non fossi stato all’altezza della situazione
-          sicuramente lo saresti stata tu a provvedere.<br></br>
+          sicuramente ci saresti stata tu a provvedere.<br></br>
           Non ho dubitato neanche per un istante delle tua capacità di essere
           madre, non ho mai dubitato della forza che saresti riuscita a trovare
           se la vita ti avesse richiesto di farlo, questo pensiero mi ha in
-          qualche modo cancellato dalla mente ogni paura in colpo solo.{" "}
-          <br></br>
+          qualche modo cancellato dalla mente ogni paura in un colpo solo.
           Saresti diventata mamma (e io papà), stupendo! 🥳 <br></br>
           La pancia iniziò a fare capolino, settimana dopo settimana quella
           creaturina speciale iniziava a prendere sempre più spazio.
@@ -61,7 +60,8 @@ export default function Home() {
           rimaneva sempre il miglior corpo che io abbia mai desiderato guardare,
           lo amavo come ho sempre fatto, desideravo sentirlo vicino al mio in
           ogni momento della giornata, desideravo sentire te vicina, in
-          silenzio, per godermi quella meraviglia che stava accadendo. <br></br>
+          silenzio, per godermi quello spettacolo che stava messo in atto.{" "}
+          <br></br>
           Un giorno poi, all&apos;improvviso, BOOM! fanno capolino loro 😱
           <div className="image-wrapper">
             <Image
@@ -71,7 +71,7 @@ export default function Home() {
               height={1000}
             />
           </div>
-          Le tue tette perfette ora erano delle tette perfette X 5.
+          Le tue tette perfette ora erano diventate delle tette perfette X 5.
           <br></br>
           La pancia piano piano cresceva, ad agosto abbiamo avuto un assaggio di
           quella che sarebbe stata la nostra piccolina:
@@ -83,12 +83,12 @@ export default function Home() {
               height={1000}
             />
           </div>
-          quanta emozione.. ancora più impazienza e più voglia di conoscerla ci
+          quanta emozione, ancora più impazienza e più voglia di conoscerla ci
           avrebbe accompagnato per i mesi a venire.<br></br>
           Il sole, il mare, le quintalate di protezione solare e la nostra
           estate senza poter bere alcol, mangiare pesce, carne o prosciutto
-          crudo 😭 che fatica povera mamma. Il pancino aumentava, aumentava e
-          aumentava
+          crudo 😭 che fatica povera mamma. <br></br>Il pancino aumentava,
+          aumentava e aumentava
           <div className="image-splitted">
             <div className="image-container">
               <Image src="/pancia3.jpg" layout="fill" objectFit="contain" />
@@ -139,11 +139,13 @@ export default function Home() {
           Cecilia, il più bel regalo che la vita ci potesse fare.<br></br>
         </div>
         <video
-          src={"/calcetti.mp4"}
+          poster={"/cover-1.jpg"}
           controls
           playsInline
           className="videoBackground"
-        />
+        >
+          <source src={"/calcetti.mp4"} type="video/mp4"></source>
+        </video>
         <div>
           Abbiamo fatto l’albero insieme alla tua famiglia
           <div className="image-wrapper">
@@ -176,9 +178,9 @@ export default function Home() {
           Nel dubbio però forse una capatina all’ospedale era meglio farla anche
           se in realtà mancava ancora una settimana al termine..<br></br>
           Chiamo il Taxi mi carico valige, trolley e zainetti con i viveri che
-          neanche stessimo facendo un campeggio nel deserto e via verso
-          l’ospedale con la convinzione che nel giro di qualche ora saremmo
-          tornati a casa e invece…
+          neanche dovessimo fare il cammino di Santiago e via verso l’ospedale
+          con la convinzione che nel giro di qualche ora saremmo tornati a casa
+          e invece…
           <br></br>5cm di dilatazione, via in sala parto, tu con una
           tranquillità anomala, io con un’agitazione terribile arriviamo li in
           quella stanza dove ci vengono fatte tutte le domande di rito.{" "}
@@ -186,19 +188,22 @@ export default function Home() {
           Ci siamo, é ora delle spinte, tu bravissima, spinte perfette, niente
           urla, nessun timore, nel giro di 10 spinte scarse fa capolino il
           testino di Ceci che ancora prima di essere completamente fuori, ci
-          comunica con un pianto, che è li, che sta uscendo, che è pronta ad
+          comunica con un piantino che è li, che sta uscendo, che è pronta ad
           abbracciarci.<br></br> La spinta dopo finalmente esce ciò che sarebbe
           stato la cosa più bella fatta nelle nostre vite, sono le 12:28 e ora
-          siamo in tre. <br></br>
+          <strong> siamo in tre</strong>.<br></br>
           Taglio il cordone e prendo il telefono per immortalare la magia della
           vita, la mamma e la sua bimba che si guardano per la prima volta 😍.
         </div>
+
         <video
-          src={"/eccola.mp4"}
+          poster={"/cover-2.jpg"}
           controls
           playsInline
           className="videoBackground"
-        />
+        >
+          <source src={"/eccola.mp4"} type="video/mp4"></source>
+        </video>
         <div>
           Avevo gli occhi pieni di lacrime dall’emozione, é stata una cosa
           indescrivibile.. Eri mamma, lo eri diventata veramente..
@@ -266,10 +271,10 @@ export default function Home() {
               height={1000}
             />
           </div>
-          Niente, doveva solo fare la 💩 , tutto qua, però da quel momento
-          abbiamo imparato a non preoccuparci all&apos;istante, anche perché da
-          lì a poco, fare la cacca, non sarebbe stato più un problema per lei,
-          anzi…
+          Niente, doveva solo fare la 💩 tutto qua, però dai da quel momento
+          abbiamo imparato a non preoccuparci al primo strillo che non placa,
+          anche perché da lì a poco fare la cacca non sarebbe stato più un
+          problema per lei anzi…
           <br></br> Il 23 primo bagnetto!!
           <div className="image-wrapper">
             <Image
@@ -315,18 +320,22 @@ export default function Home() {
           </div>
           un balletto
           <video
-            src={"/watussi.mp4"}
+            poster={"/cover-3.jpg"}
             controls
             playsInline
             className="videoBackground"
-          />
+          >
+            <source src={"/watussi.mp4"} type="video/mp4"></source>
+          </video>
           un altro balletto
           <video
-            src={"/ballo.mp4"}
+            poster={"/cover-4.jpg"}
             controls
             playsInline
             className="videoBackground"
-          />
+          >
+            <source src={"/ballo.mp4"} type="video/mp4"></source>
+          </video>
           e in attesa del caldo estivo, del mare e delle vacanze.. Come tutti
           (tranne mamma) d’inverno si ingrassa 🐷 e ciciulena non ha fatto
           eccezione..
@@ -374,8 +383,8 @@ export default function Home() {
               <Image src="/spiaggia2.jpg" layout="fill" objectFit="contain" />
             </div>
           </div>
-          Sono stati mesi stancanti e impegnativi ma la nostra bimba é stupenda,
-          ogni giorno sempre di più.. <br></br>
+          Paola, sono stati mesi stancanti e impegnativi ma la nostra bimba é
+          stupenda, ogni giorno lo è sempre di più.. <br></br>
           Tu sei una mamma pazzesca, sei una donna pazzesca, testarda come un
           mulo ma forse anche per questo riesci ad essere così brava nel farlo..{" "}
           <br></br>Ho tanta stima e ammirazione per come riesci ad essere con
@@ -389,7 +398,7 @@ export default function Home() {
           gioia e la soddisfazione della perfetta meraviglia che io e te insieme
           siamo riusciti a mettere al mondo. <br></br>Grazie per essere la
           migliore madre che mia figlia potesse avere.<br></br>
-          <div style={{ textAlign: "right" }}>papà</div>
+          <div style={{ textAlign: "right" }}>Ste</div>
         </div>
       </main>
     </div>
