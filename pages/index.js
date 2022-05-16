@@ -384,12 +384,15 @@ export default function Home() {
             </div>
           </div>
           Paola, sono stati mesi stancanti e impegnativi ma la nostra bimba é
-          stupenda, ogni giorno lo è sempre di più.. <br></br>
+          stupenda, ogni giorno lo è 120, anzi{" "}
+          <em> ventinovemilacinquecentoventi tonnellate di milioni </em>di più..{" "}
+          <br></br>
           Tu sei una mamma pazzesca, sei una donna pazzesca, testarda come un
           mulo ma forse anche per questo riesci ad essere così brava nel farlo..{" "}
           <br></br>Ho tanta stima e ammirazione per come riesci ad essere con
-          Ceci, la premura che hai nei suoi confronti, l’amore che trasuda da
-          ogni poro della pelle ti rende una madre come poche.. <br></br>
+          Ceci, la premura e la pazienza che hai nei suoi confronti, l’amore che
+          trasuda da ogni poro della pelle ti rende una madre come poche..{" "}
+          <br></br>
           Scusa per il ritardo di queste parole, ho provato a rimediare e spero
           di esserci riuscito almeno in parte e nel caso non fosse così mi ha
           comunque fatto molto piacere ripercorrere questa strada che abbiamo
